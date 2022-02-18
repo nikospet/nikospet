@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nikospet
-- 👀 I’m interested in Data Science through Python and various automations & transformations through Groovy
-- 🌱 I’m currently learning many thigs, such as Kubernetes and Docker swarm.. and to achieve a 90+% of accuracy in my training models..  
-- 💞️ I’m looking to collaborate on a very interesting idea i have which will help people organize when needed and support volunteering, help each other throug solidarity. 
+- 👋 Hi, I’m Nikos [@nikospet]
+- 👀 I’m interested in Data Science using Python and various automations & transformations through Groovy
+- 📖 Libraries using .. not limited but incliuding : NumPy, SciPy,Pandas, Matplotlib, bokeh, SciKit-Learn .. 
 - 📫 You can reach me at unexposed7@gmail.com
 
 <!---
